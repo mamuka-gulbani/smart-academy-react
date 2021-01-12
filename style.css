@@ -1,0 +1,23 @@
+
+body {
+  background-color: #fafafa;
+  background-image: url("fib.jpg");
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  min-height: 120vh;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+#submit {
+  color: #fafafa;
+  font-size: 45spx;
+  background-color: rgb(97, 7, 25);
+  border-color: rgb(63, 4, 16);
+  cursor: pointer;
+}
